@@ -1,0 +1,45 @@
+16:51:43.938 [main] INFO  StepDefinition.Hook - ------------------Search for WebDevelopment Courses --------------
+16:51:55.208 [main] INFO  StepDefinition.Hook - ------------------Select the WebDevelopment Skill---------------
+16:52:04.544 [main] INFO  StepDefinition.Hook - ------------------Select the English Language---------------
+16:52:07.559 [main] INFO  StepDefinition.Hook - ------------------Select the Level of course---------------
+16:52:13.834 [main] INFO  StepDefinition.Hook - ------------------Fetching the Course details---------------
+16:53:16.317 [main] INFO  StepDefinition.Hook - ------------------Navigate to home page---------------
+16:53:40.908 [main] INFO  StepDefinition.Hook - ------------------Select the Language learning Subject---------------
+16:53:48.254 [main] INFO  StepDefinition.Hook - ------------------Fetching the Language Counts---------------
+16:53:49.873 [main] INFO  StepDefinition.Hook - ------------------Fetching the Level Counts---------------
+16:54:11.752 [main] INFO  StepDefinition.Hook - ------------------Navigate to the form ---------------
+16:54:50.180 [main] INFO  StepDefinition.Hook - ------------------Filling the form---------------
+17:23:53.383 [main] INFO  TestCases.IdentifyCourses - ------------------Opening the Browser---------------
+17:24:09.894 [main] INFO  TestCases.IdentifyCourses - ------------------Launching the URL---------------
+17:24:10.341 [main] INFO  TestCases.IdentifyCourses - ------------------Search for WebDevelopment Courses --------------
+17:24:21.384 [main] INFO  TestCases.IdentifyCourses - ------------------Select the WebDevelopment Skill---------------
+17:24:29.642 [main] INFO  TestCases.IdentifyCourses - ------------------Select the English Language---------------
+17:24:32.201 [main] INFO  TestCases.IdentifyCourses - ------------------Select the Level of course---------------
+17:24:38.188 [main] INFO  TestCases.IdentifyCourses - ------------------Fetching the Course details---------------
+17:25:10.561 [main] INFO  TestCases.IdentifyCourses - ------------------Navigate to home page---------------
+17:25:24.945 [main] INFO  TestCases.IdentifyCourses - ------------------Select the Language learning Subject---------------
+17:25:26.319 [main] INFO  TestCases.IdentifyCourses - ------------------Fetching the Language Counts---------------
+17:26:11.936 [main] INFO  TestCases.IdentifyCourses - ------------------Navigate to the form ---------------
+17:26:39.988 [main] INFO  TestCases.IdentifyCourses - ------------------Filling the form---------------
+17:26:49.873 [main] INFO  TestCases.IdentifyCourses - ------------------Closing the Browser---------------
+17:29:01.136 [main] INFO  TestCases.IdentifyCourses - ------------------Opening the Browser---------------
+17:29:12.244 [main] INFO  TestCases.IdentifyCourses - ------------------Launching the URL---------------
+17:29:12.814 [main] INFO  TestCases.IdentifyCourses - ------------------Search for WebDevelopment Courses --------------
+17:29:22.833 [main] INFO  TestCases.IdentifyCourses - ------------------Select the WebDevelopment Skill---------------
+17:29:31.747 [main] INFO  TestCases.IdentifyCourses - ------------------Select the English Language---------------
+17:29:35.384 [main] INFO  TestCases.IdentifyCourses - ------------------Select the Level of course---------------
+17:29:42.017 [main] INFO  TestCases.IdentifyCourses - ------------------Fetching the Course details---------------
+17:30:18.968 [main] INFO  TestCases.IdentifyCourses - ------------------Navigate to home page---------------
+17:30:33.280 [main] INFO  TestCases.IdentifyCourses - ------------------Select the Language learning Subject---------------
+17:30:39.820 [main] INFO  TestCases.IdentifyCourses - ------------------Fetching the Language Counts---------------
+17:30:40.775 [main] INFO  TestCases.IdentifyCourses - ------------------Fetching the Level Counts---------------
+17:30:41.122 [main] INFO  TestCases.IdentifyCourses - ------------------Navigate to the form ---------------
+17:31:13.150 [main] INFO  TestCases.IdentifyCourses - ------------------Filling the form---------------
+17:31:23.121 [main] INFO  TestCases.IdentifyCourses - ------------------Closing the Browser---------------
+17:32:33.486 [main] INFO  StepDefinition.Hook - ------------------Search for WebDevelopment Courses --------------
+17:32:43.494 [main] INFO  StepDefinition.Hook - ------------------Select the WebDevelopment Skill---------------
+17:32:52.695 [main] INFO  StepDefinition.Hook - ------------------Select the English Language---------------
+17:32:55.297 [main] INFO  StepDefinition.Hook - ------------------Select the Level of course---------------
+17:33:02.379 [main] INFO  StepDefinition.Hook - ------------------Fetching the Course details---------------
+17:33:58.070 [main] INFO  StepDefinition.Hook - ------------------Navigate to home page---------------
+17:34:23.244 [main] INFO  StepDefinition.Hook - ------------------Select the Language learning Subject---------------

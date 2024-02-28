@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-28T09:39:58 IST" name="Suite" finished-at="2024-02-28T09:42:17 IST" duration-ms="139858">
+    <groups>
+    </groups>
+    <test started-at="2024-02-28T09:39:58 IST" name="Chrome" finished-at="2024-02-28T09:42:17 IST" duration-ms="139858">
+      <class name="TestCases.IdentifyCourses">
+        <test-method is-config="true" signature="createdriver(java.lang.String)[pri:0, instance:TestCases.IdentifyCourses@76494737]" started-at="2024-02-28T09:39:58 IST" name="createdriver" finished-at="2024-02-28T09:40:15 IST" duration-ms="16630" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createdriver -->
+        <test-method signature="Select_the_WebDevelopment_Skill()[pri:0, instance:TestCases.IdentifyCourses@76494737]" started-at="2024-02-28T09:40:15 IST" name="Select_the_WebDevelopment_Skill" finished-at="2024-02-28T09:40:36 IST" duration-ms="21459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Select_the_WebDevelopment_Skill -->
+        <test-method signature="Select_the_English_And_Beginner()[pri:1, instance:TestCases.IdentifyCourses@76494737]" started-at="2024-02-28T09:40:37 IST" name="Select_the_English_And_Beginner" finished-at="2024-02-28T09:40:44 IST" duration-ms="7033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Select_the_English_And_Beginner -->
+        <test-method signature="Fetch_the_Course_Details()[pri:2, instance:TestCases.IdentifyCourses@76494737]" started-at="2024-02-28T09:40:44 IST" name="Fetch_the_Course_Details" finished-at="2024-02-28T09:41:20 IST" duration-ms="35452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Fetch_the_Course_Details -->
+        <test-method signature="Select_the_LanguageLearning_skill()[pri:3, instance:TestCases.IdentifyCourses@76494737]" started-at="2024-02-28T09:41:20 IST" name="Select_the_LanguageLearning_skill" finished-at="2024-02-28T09:41:36 IST" duration-ms="16045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Select_the_LanguageLearning_skill -->
+        <test-method signature="Fetch_Language_and_Level_counts()[pri:4, instance:TestCases.IdentifyCourses@76494737]" started-at="2024-02-28T09:41:36 IST" name="Fetch_Language_and_Level_counts" finished-at="2024-02-28T09:41:42 IST" duration-ms="5984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Fetch_Language_and_Level_counts -->
+        <test-method signature="navigate_to_the_form()[pri:5, instance:TestCases.IdentifyCourses@76494737]" started-at="2024-02-28T09:41:42 IST" name="navigate_to_the_form" finished-at="2024-02-28T09:42:06 IST" duration-ms="23849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_to_the_form -->
+        <test-method signature="CaptureErrorMessage()[pri:6, instance:TestCases.IdentifyCourses@76494737]" started-at="2024-02-28T09:42:07 IST" name="CaptureErrorMessage" finished-at="2024-02-28T09:42:16 IST" duration-ms="9553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureErrorMessage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.IdentifyCourses@76494737]" started-at="2024-02-28T09:42:16 IST" name="tearDown" finished-at="2024-02-28T09:42:17 IST" duration-ms="1255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.IdentifyCourses -->
+    </test> <!-- Chrome -->
+  </suite> <!-- Suite -->
+</testng-results>
